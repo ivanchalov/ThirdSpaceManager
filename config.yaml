@@ -1,0 +1,3 @@
+chromedriver_path_aws: "/opt/chromedriver"
+chrome_binary_path_aws: "/opt/headless-chromium"
+chromedriver_path_local: "/usr/local/bin/chromedriver"
